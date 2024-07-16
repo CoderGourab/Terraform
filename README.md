@@ -1,5 +1,5 @@
 # Terraform-eks
-A sample repository to create EKS on AWS using Terraform.
+A repository to create EKS on AWS using Terraform and enabling Logging in CloudWatch.State locks stored in S3->DynamoDB
 
 ### Install AWS CLI 
 
